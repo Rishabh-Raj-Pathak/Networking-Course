@@ -65,7 +65,7 @@
 - HTTP means Hyper Text Transfer Protocol.
 - A client-server protocol that tells us how we request data from the servers and how it will send us that data.
 - This is an application layer protocol.
-- HTTP is TCP protocol.
+- HTTP uses TCP protocol.
 - HTTP is a stateless protocol and will not save any state.
 
 
